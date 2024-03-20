@@ -1,0 +1,16 @@
+import math
+
+pi = -3.14
+
+print(round(pi))
+print(math.ceil(pi))
+print(abs(pi))
+print(pow(pi,2)) #平方
+print(math.sqrt(420))
+
+x = 1
+y = 2
+z = 3
+
+print(max(x,y,z))
+print()
